@@ -6,3 +6,4 @@ keras
 tensorflow
 distutils
 setuptools
+scikit-learn
